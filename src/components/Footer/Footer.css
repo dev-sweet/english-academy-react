@@ -2,3 +2,12 @@
     background-color: #018763;
     color:#fff;
 }
+.footer-title{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+.footer-text{
+    color:rgb(224, 224, 224);
+    width: 50%;
+    padding:10px;
+}
