@@ -5,8 +5,8 @@ const Course = (props) => {
     const {course,price,duration,img} = props.course;
     return (
         <Col style={{minHeight:'100%'}}>
-            <Card>
-            <Card.Img variant="top" style={{height:'200px'}} src={img} />
+            <Card className="course-card shadow">
+            <Card.Img variant="top" className="card-img"  src={img} />
             <Card.Body>
                 <Card.Title>{course}</Card.Title>
                 <Card.Text className="mb-0 py-1">

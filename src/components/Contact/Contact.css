@@ -1,0 +1,23 @@
+.contact{
+    background-color: #e4e4e4;
+}
+.contact h1{
+    color: #005b43;
+}
+.contact-form{
+    margin-top:30px;
+    border:1px solid #018763;
+    border-radius: 8px;
+    padding:10px 15px;
+}
+.contact-form:focus{
+    border: 1px solid #55a89227;
+    box-shadow: 0 0 6px  #005b43;
+}
+.submit{
+    background-color: #018763;
+    margin-top:20px;
+}
+.submit:hover{
+    background-color: #005b43;
+}
