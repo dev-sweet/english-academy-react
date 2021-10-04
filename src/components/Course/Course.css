@@ -1,0 +1,9 @@
+.course-card{
+    height: 390px;
+    border: 1px solid #018763;
+    /* border-radius: 10px; */
+}
+.card-img{
+    height: 200px;
+    border-radius: 2px;
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "id":50001,
+        "course":"English for Kids",
+        "price":90,
+        "duration":"3 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/kids.jpg"
+    },
+    {
+        "id":50002,
+        "course":"IELTS Preparation",
+        "price":350,
+        "duration":"6 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/ielts.png"
+    },
+    {
+        "id":50003,
+        "course":"English Grammer Basic",
+        "price": 190,
+        "duration":"3 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/basic.jpg"
+    },
+    {
+        "id":50004,
+        "course":"English Grammer Advance",
+        "price": 310,
+        "duration":"4 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/advanced.jpg"
+    },
+    {
+        "id":50005,
+        "course":"Business English",
+        "price": 350,
+        "duration":"6 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/business.jpeg"
+    },
+    {
+        "id":50006,
+        "course":"Genarel English",
+        "price":150,
+        "duration":"2 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/general.jpg"
+    },
+    {
+        "id":50007,
+        "course":"Intensive English",
+        "price": 380,
+        "duration":"8 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/intensive.jpg"
+    },
+    {
+        "id":50008,
+        "course":"Spoken English",
+        "price":280,
+        "duration":"6 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/spoken.jpg"
+    },
+    {
+        "id":50009,
+        "course":"English Writing Tests",
+        "price":230,
+        "duration":"3 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/writing.jpg"
+    }
+    
+]

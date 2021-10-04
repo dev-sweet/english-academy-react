@@ -1,0 +1,32 @@
+[
+    {
+        "id":120001,
+        "course":"Spoken English",
+        "price":280,
+        "duration":"6 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/spoken.jpg"
+    },
+    {
+        "id":120002,
+        "course":"IELTS Preparation",
+        "price":350,
+        "duration":"6 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/ielts.png"
+    },
+    {
+        "id":120003,
+        "course":"Business English",
+        "price": 350,
+        "duration":"6 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/business.jpeg"
+    },
+    {
+        "id":120004,
+        "course":"Intensive English",
+        "price": 380,
+        "duration":"8 months.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/intensive.jpg"
+    }
+
+
+]
