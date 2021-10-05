@@ -2,6 +2,7 @@ import {Card, Col} from 'react-bootstrap';
 import React from 'react';
 import './Course.css'
 const Course = (props) => {
+    // course element destructured
     const {course,price,duration,img} = props.course;
     return (
         <Col style={{minHeight:'100%'}}>

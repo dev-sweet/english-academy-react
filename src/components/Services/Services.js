@@ -5,7 +5,10 @@ import { Row } from 'react-bootstrap';
 import Course from '../Course/Course';
 
 const Services = () => {
+    // courses state
     const [courses,setCourses] = useState([]);
+
+    // load data and set Courses
     useEffect(()=>{
         fetch('./courses.json')
         .then(res => res.json())

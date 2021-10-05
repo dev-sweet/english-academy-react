@@ -4,7 +4,10 @@ import { Row } from 'react-bootstrap';
 import Course from '../Course/Course';
 import './Home.css';
 const Home = () => {
+    // total courses 
     const [courses,setCourses] = useState([]);
+    
+    // load data from local json file and set courses
     useEffect(()=>{
         fetch('./homeData.json')
         .then(res => res.json())

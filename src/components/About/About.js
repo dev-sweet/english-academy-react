@@ -7,6 +7,7 @@ import about2 from "../../img/about2.jpg";
 import about3 from "../../img/about3.jpg";
 
 const About = () => {
+  // about data used for stop code repitation
   const aboutData = [
     {
       title: "Our Mission",
