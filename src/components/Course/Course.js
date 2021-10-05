@@ -10,7 +10,7 @@ const Course = (props) => {
             <Card.Body>
                 <Card.Title>{course}</Card.Title>
                 <Card.Text className="mb-0 py-1">
-                  Price :   {price}
+                  Price : {price}$
                 </Card.Text>
                 <Card.Text className="py-1">
                    Course Duration : {duration}

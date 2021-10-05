@@ -61,6 +61,27 @@
         "price":230,
         "duration":"3 months.",
         "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/writing.jpg"
+    },
+    {
+        "id":50010,
+        "course":"Long Term Study Programme",
+        "price":850,
+        "duration":"1 year.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/long-term.jpg"
+    },
+    {
+        "id":50011,
+        "course":"English for Academic Study",
+        "price":290,
+        "duration":"6 month.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/academic.jpg"
+    },
+    {
+        "id":50011,
+        "course":"Poetry and Rhetoric",
+        "price":300,
+        "duration":"6 month.",
+        "img":"https://raw.githubusercontent.com/dev-sweet/images-for-english-academy/main/poetry.png"
     }
     
 ]
